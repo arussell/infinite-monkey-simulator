@@ -89,13 +89,13 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 279119936;
-			PBXWorkspaceStateSaveDate = 279119936;
+			PBXPerProjectTemplateStateSaveDate = 287902738;
+			PBXWorkspaceStateSaveDate = 287902738;
 		};
 		perUserProjectItems = {
-			C8A6A54510A309FD002E012E /* PBXTextBookmark */ = C8A6A54510A309FD002E012E /* PBXTextBookmark */;
-			C8A6A54F10A30A3D002E012E /* PBXTextBookmark */ = C8A6A54F10A30A3D002E012E /* PBXTextBookmark */;
-			C8A6A55B10A30A66002E012E /* PBXTextBookmark */ = C8A6A55B10A30A66002E012E /* PBXTextBookmark */;
+			C8A6A54510A309FD002E012E = C8A6A54510A309FD002E012E /* PBXTextBookmark */;
+			C8A6A54F10A30A3D002E012E = C8A6A54F10A30A3D002E012E /* PBXTextBookmark */;
+			C8A6A55B10A30A66002E012E = C8A6A55B10A30A66002E012E /* PBXTextBookmark */;
 		};
 		sourceControlManager = C8B2110A109515590009FD89 /* Source Control */;
 		userBuildSettings = {
@@ -151,9 +151,9 @@
 	};
 	C886E53410A001DC00C121F0 /* Controller.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2322, 2600}}";
-			sepNavSelRange = "{8985, 0}";
-			sepNavVisRange = "{8470, 1265}";
+			sepNavIntBoundsRect = "{{0, 0}, {2322, 2587}}";
+			sepNavSelRange = "{7355, 0}";
+			sepNavVisRange = "{0, 2123}";
 		};
 	};
 	C8A6A54510A309FD002E012E /* PBXTextBookmark */ = {
