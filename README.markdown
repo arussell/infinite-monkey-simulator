@@ -8,7 +8,7 @@ The monkey simulator was written by [Aaron B. Russell](http://unadopted.co.uk) f
 I have a Mac. Can I just download the simulator and run it myself?
 ==================================================================
 
-Yes, definitely! Grab a copy from the left hand side of this page. It requires at least Mac OS X 10.6 (Snow Leopard), because it uses Grand Central Dispatch to manage threading.
+Yes, definitely! Grab a copy [here](https://github.com/downloads/arussell/infinite-monkey-simulator/Monkey%20Simulator.zip). It requires at least Mac OS X 10.6 (Snow Leopard), because it uses Grand Central Dispatch to manage threading.
 
 I have a Windows/Linux based computer. Can I run the simulator too?
 ===================================================================
