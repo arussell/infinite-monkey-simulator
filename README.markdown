@@ -3,7 +3,7 @@ What is the Monkey Simulator?
 
 If a monkey is sat at a typewriter for an infinite amount of time, how long would it take to write the entire works of Shakespeare? The monkey simulator gives you your very own monkey and typewriter, so you can find out for yourself.
 
-The monkey simulator was written by [http://unadopted.co.uk Aaron B. Russell] for an episode of the BBC Two television programme [http://bbc.co.uk/horizon Horizon]. You can find out more information about the programme [here](http://www.bbc.co.uk/programmes/b00qszch), and you can watch it online at [BBC iPlayer](http://www.bbc.co.uk/iplayer/episode/b00qszch) ([also in HD](http://www.bbc.co.uk/iplayer/episode/b00qszch/hd])) between February 10, 2010 and February 24, 2010.
+The monkey simulator was written by [Aaron B. Russell](http://unadopted.co.uk) for an episode of the BBC Two television programme [Horizon](http://bbc.co.uk/horizon). You can find out more information about the programme [here](http://www.bbc.co.uk/programmes/b00qszch), and you can watch it online at [BBC iPlayer](http://www.bbc.co.uk/iplayer/episode/b00qszch) ([also in HD](http://www.bbc.co.uk/iplayer/episode/b00qszch/hd])) between February 10, 2010 and February 24, 2010.
 
 I have a Mac. Can I just download the simulator and run it myself?
 ==================================================================
